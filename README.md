@@ -1,7 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Edwin Bahena! <br/><a href="https://github.com/ebahena90"></a>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+ 
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  
+- <b>PowerShell</b>
+  
+- <b>C# (.NET Desktop Applications)</b>
+ 
+- <b>Python</b>
+  
+
 
 <!--
-**ebahena90/ebahena90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
