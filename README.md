@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edwin Bahena! <br/><a href="https://github.com/ebahena90"></a>
+<h1>Hi, I'm Edwin Bahena <br/><a href="https://github.com/ebahena90"></a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
