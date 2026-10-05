@@ -1,8 +1,8 @@
 <h1>Hi, I'm Edwin Bahena <br/><a href="https://github.com/ebahena90"></a>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects Portfolio:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Cyber Security SIEM Lab with WAZUH Agent</b>
  
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   
